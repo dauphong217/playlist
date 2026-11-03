@@ -1,43 +1,27 @@
 #EXTM3U
-#EXTINF:-1,ISR CH 09
-http://stream.mcquack.net/20/index.m3u8
-#EXTINF:-1,ISR CH 11
-http://stream.mcquack.net/293/index.m3u8
-#EXTINF:-1,ISR CH 12
-http://stream.mcquack.net/294/index.m3u8
-#EXTINF:-1,ISR CH 13
-http://stream.mcquack.net/295/index.m3u8
-#EXTINF:-1,ISR CH 14
-http://stream.mcquack.net/454/index.m3u8
-#EXTINF:-1,ISR CH 15
-http://stream.mcquack.net/45/index.m3u8
-#EXTINF:-1,ISR CH 23
-http://stream.mcquack.net/378/index.m3u8
-#EXTINF:-1,ISR CH 24
-http://stream.mcquack.net/42/index.m3u8
-#EXTINF:-1,ISR ZOOM
-http://stream.mcquack.net/377/index.m3u8
-#EXTINF:-1,ISR HOT Zone
-http://stream.mcquack.net/379/index.m3u8
-#EXTINF:-1,ISR HOT HBO
-http://stream.mcquack.net/381/index.m3u8
-#EXTINF:-1,ISR 5 Sport
-http://stream.mcquack.net/41/index.m3u8
-#EXTINF:-1,ISR VIVA Premium
-http://stream.mcquack.net/43/index.m3u8
-#EXTINF:-1,ISR HOP!
-http://stream.mcquack.net/44/index.m3u8
-#EXTINF:-1,YES Movies Action
-http://stream.mcquack.net/380/index.m3u8
-#EXTINF:-1,Yam Tichoni
-http://stream.mcquack.net/46/index.m3u8
-#EXTINF:-1,Good Life
-http://stream.mcquack.net/47/index.m3u8
-#EXTINF:-1,Knesset
-http://stream.mcquack.net/48/index.m3u8
+#EXTINF:-1 tvg-id="כאן11.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/960px-Kan11Logo.svg.png" group-title="General",Kan 11
+https://n-160-1.cdn.avcom-bezeq.tv/webcache/redge-il/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="קשת.il" tvg-logo="https://i.imgur.com/fY3eakc.png" group-title="General",Keshet 12
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H8Z65MVLMM4E9Q/12236/
+#EXTINF:-1 tvg-id="רשת.il" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",Reshet 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+#EXTINF:-1 tvg-id="5sportHD.il" tvg-logo="https://iptv-epg.org/images/QjJHwTFo6n1Wpxw2kXWZsz837qO5wvQAyrMksstLx3GQ8gpnmtu7Fp5YMTCPN6eayiajW_pym3aO-lpqHUR3EuLvvVzFLkgKKrrV-HhD3Y5V" group-title="Sports",5Sport
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H8Z65MVLMM4E9Q/2391/
+#EXTINF:-1 tvg-id="5PLUSHD.il" tvg-logo="https://iptv-epg.org/images/rq3tHCpXUpkvbu2SSOflU3N4Qglm0cTq_WvWlpqgtk-OdLfcvVVBraeIZwu4ArcnSawjn__kiyIJAXz4jDQCoyPkrLZGCZuJP4iOCmEZ4HI" group-title="Sports",5Plus
 
+#EXTINF:-1 tvg-id="5GOLD.il" tvg-logo="https://iptv-epg.org/images/d67d8ab4f4c10bf22aa353e27879133c/2QrFjYTL1_zj_t8jNHEi7pG95Z6WupYKzASJj9DSbIr5DDnqeLHVgRHF8lcj7NJUPxa8OAty1Ze-OByCMGNm9_IBuMrSbZa5rRFBsSzd" group-title="Sports",5Gold
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H8Z65MVLMM4E9Q/12254/
+#EXTINF:-1 tvg-id="5LIVEHD.il" tvg-logo="https://iptv-epg.org/images/n4zDDF6RcBT1DNrrzPzPWkAHcaxXhh80c1JSsnIAmPg4SOn2w_hfq0BKimWuhY1rBOeY3P2h87-KugnKwPS74u9ydU_aEqLy2WvhL_teZFo" group-title="Sports",5Live
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H8Z65MVLMM4E9Q/2362/
+#EXTINF:-1 tvg-id="5STARS.il" tvg-logo="https://iptv-epg.org/images/2zvFwPyJkT7vimUtsp_t3Qxd-vWR77c6W1sXb9sdSiXpqfynYZSBGAq9edpfHLb2_mVvDCLmcIOZwDBr0RxacYIKO2njq0LnWJT38zHRew" group-title="Sports",5Stars
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H8Z65MVLMM4E9Q/12278/
+#EXTINF:-1 tvg-id="5SPORT4K.il" tvg-logo="https://iptv-epg.org/images/oifhoMGddxpGAzNHtyOX3PpLHvP_fkolnntWDoNQ1FCXs3-VxdzvQSvhqfGbkGGaB88IWvtKLivWTUoYiq9tP45p-ew0J4Ycg9fN7STqNa4a" group-title="Sports",5Sport 4K
 
-
-
-
-
+#EXTINF:-1 tvg-id="ספורט1HD.il" tvg-logo="https://imgur.com/DqE1143.png" group-title="Sports",Sport 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H8Z65MVLMM4E9Q/2353/
+#EXTINF:-1 tvg-id="ספורט2HD.il" tvg-logo="https://i.imgur.com/Headxmx.png" group-title="Sports",Sport 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H8Z65MVLMM4E9Q/2352/
+#EXTINF:-1 tvg-id="ספורט3HD.il" tvg-logo="https://i.imgur.com/stSrBBh.png" group-title="Sports",Sport 3
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H8Z65MVLMM4E9Q/2388/m3u8
+#EXTINF:-1 tvg-id="ספורט4HD.il" tvg-logo="https://i.imgur.com/wFXzzYs.pngs" group-title="Sports",Sport 4
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H8Z65MVLMM4E9Q/2389/m3u8
